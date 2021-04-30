@@ -1,0 +1,90 @@
+[submodule "BESSPIN-Tool-Suite"]
+	path = BESSPIN-Tool-Suite
+	url = git@github.com:GaloisInc/BESSPIN-Tool-Suite.git
+[submodule "BESSPIN-Environment"]
+	path = BESSPIN-Environment
+	url = git@github.com:GaloisInc/BESSPIN-Environment.git
+[submodule "BESSPIN-LFS"]
+	path = BESSPIN-LFS
+	url = git@github.com:GaloisInc/BESSPIN-LFS.git
+[submodule "BESSPIN-Voter-Registration"]
+	path = BESSPIN-Voter-Registration
+	url = git@github.com:GaloisInc/BESSPIN-Voter-Registration.git
+[submodule "BESSPIN-FreeRTOS"]
+	path = BESSPIN-FreeRTOS
+	url = git@github.com:GaloisInc/BESSPIN-FreeRTOS.git
+[submodule "BESSPIN-FreeRTOS-Plus-TCP"]
+	path = BESSPIN-FreeRTOS-Plus-TCP
+	url = git@github.com:GaloisInc/BESSPIN-FreeRTOS-Plus-TCP.git
+[submodule "BESSPIN-FreeRTOS-Kernel"]
+	path = BESSPIN-FreeRTOS-Kernel
+	url = git@github.com:GaloisInc/BESSPIN-FreeRTOS-Kernel.git
+[submodule "BESSPIN-FreeRTOS-RISC-V_Galois_demo"]
+	path = BESSPIN-FreeRTOS-RISC-V_Galois_demo
+	url = git@github.com:GaloisInc/BESSPIN-FreeRTOS-RISC-V_Galois_demo.git
+[submodule "BESSPIN-FreeRTOS-mirror"]
+	path = BESSPIN-FreeRTOS-mirror
+	url = git@github.com:GaloisInc/BESSPIN-FreeRTOS-mirror.git
+[submodule "BESSPIN-GFE"]
+	path = BESSPIN-GFE
+	url = git@github.com:GaloisInc/BESSPIN-GFE.git
+[submodule "BESSPIN-chisel_processors"]
+	path = BESSPIN-chisel_processors
+	url = git@github.com:GaloisInc/BESSPIN-chisel_processors.git
+[submodule "BESSPIN-chipyard"]
+	path = BESSPIN-chipyard
+	url = git@github.com:GaloisInc/BESSPIN-chipyard.git
+[submodule "BESSPIN-riscv-boom"]
+	path = BESSPIN-riscv-boom
+	url = git@github.com:GaloisInc/BESSPIN-riscv-boom.git
+[submodule "BESSPIN-rocket-chip"]
+	path = BESSPIN-rocket-chip
+	url = git@github.com:GaloisInc/BESSPIN-rocket-chip.git
+[submodule "BESSPIN-chisel3"]
+	path = BESSPIN-chisel3
+	url = git@github.com:GaloisInc/BESSPIN-chisel3.git
+[submodule "BESSPIN-riscv-linux"]
+	path = BESSPIN-riscv-linux
+	url = git@github.com:GaloisInc/BESSPIN-riscv-linux.git
+[submodule "BESSPIN-riscv-tests"]
+	path = BESSPIN-riscv-tests
+	url = git@github.com:GaloisInc/BESSPIN-riscv-tests.git
+[submodule "BESSPIN-riscv-test-env"]
+	path = BESSPIN-riscv-test-env
+	url = git@github.com:GaloisInc/BESSPIN-riscv-test-env.git
+[submodule "BESSPIN-riscv-openocd"]
+	path = BESSPIN-riscv-openocd
+	url = git@github.com:GaloisInc/BESSPIN-riscv-openocd.git
+[submodule "BESSPIN-coremark"]
+	path = BESSPIN-coremark
+	url = git@github.com:GaloisInc/BESSPIN-coremark.git
+[submodule "BESSPIN-mibench2"]
+	path = BESSPIN-mibench2
+	url = git@github.com:GaloisInc/BESSPIN-mibench2.git
+[submodule "BESSPIN-clafer"]
+	path = BESSPIN-clafer
+	url = git@github.com:GaloisInc/BESSPIN-clafer.git
+[submodule "BESSPIN-UI"]
+	path = BESSPIN-UI
+	url = git@github.com:GaloisInc/BESSPIN-UI.git
+[submodule "BESSPIN-BSC"]
+	path = BESSPIN-BSC
+	url = git@github.com:GaloisInc/BESSPIN-BSC.git
+[submodule "BESSPIN-firesim"]
+	path = BESSPIN-firesim
+	url = git@github.com:GaloisInc/BESSPIN-firesim.git
+[submodule "BESSPIN-CloudGFE"]
+	path = BESSPIN-CloudGFE
+	url = git@github.com:GaloisInc/BESSPIN-CloudGFE.git
+[submodule "BESSPIN-arch-extract"]
+	path = BESSPIN-arch-extract
+	url = git@github.com:GaloisInc/BESSPIN-arch-extract.git
+[submodule "BESSPIN-halcyon"]
+	path = BESSPIN-halcyon
+	url = git@github.com:GaloisInc/BESSPIN-halcyon.git
+[submodule "BESSPIN-Lando"]
+	path = BESSPIN-Lando
+	url = git@github.com:GaloisInc/BESSPIN-Lando.git
+[submodule "BESSPIN-riscv-timing-tests"]
+	path = BESSPIN-riscv-timing-tests
+	url = git@github.com:GaloisInc/BESSPIN-riscv-timing-tests.git
