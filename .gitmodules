@@ -88,3 +88,15 @@
 [submodule "BESSPIN-riscv-timing-tests"]
 	path = BESSPIN-riscv-timing-tests
 	url = git@github.com:GaloisInc/BESSPIN-riscv-timing-tests.git
+[submodule "BESSPIN-BMD-2019"]
+	path = BESSPIN-BMD-2019
+	url = https://github.com/GaloisInc/BESSPIN-BMD-2019
+[submodule "BESSPIN-Voting-System-Demonstrator-2019"]
+	path = BESSPIN-Voting-System-Demonstrator-2019
+	url = https://github.com/GaloisInc/BESSPIN-Voting-System-Demonstrator-2019
+[submodule "BESSPIN-FreeRTOS-2019"]
+	path = BESSPIN-FreeRTOS-2019
+	url = https://github.com/GaloisInc/BESSPIN-FreeRTOS-2019
+[submodule "BESSPIN-GFE-2019"]
+	path = BESSPIN-GFE-2019
+	url = https://github.com/GaloisInc/BESSPIN-GFE-2019
