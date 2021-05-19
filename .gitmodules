@@ -100,3 +100,15 @@
 [submodule "BESSPIN-GFE-2019"]
 	path = BESSPIN-GFE-2019
 	url = https://github.com/GaloisInc/BESSPIN-GFE-2019
+[submodule "BESSPIN-FETT-Portal"]
+	path = BESSPIN-FETT-Portal
+	url = git@github.com:GaloisInc/BESSPIN-FETT-Portal.git
+[submodule "BESSPIN-FETT-AWSHelperService"]
+	path = BESSPIN-FETT-AWSHelperService
+	url = git@github.com:GaloisInc/BESSPIN-FETT-AWSHelperService.git
+[submodule "BESSPIN-FETT-Portal-AWS-Environment"]
+	path = BESSPIN-FETT-Portal-AWS-Environment
+	url = git@github.com:GaloisInc/BESSPIN-FETT-Portal-AWS-Environment.git
+[submodule "BESSPIN-FETT-Admin-Portal"]
+	path = BESSPIN-FETT-Admin-Portal
+	url = git@github.com:GaloisInc/BESSPIN-FETT-Admin-Portal.git
