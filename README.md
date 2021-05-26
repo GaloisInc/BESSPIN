@@ -41,3 +41,10 @@ The following are short descriptions of all the BESSPIN repositories and the res
 - [BESSPIN-riscv-tests](https://github.com/GaloisInc/BESSPIN-riscv-tests): The fork of the [RISC-V Tests](https://github.com/riscv/riscv-tests) repository used within the BESSPIN project.
 - [BESSPIN-riscv-timing-tests](https://github.com/GaloisInc/BESSPIN-riscv-timing-tests): A set of RISC-V instruction latency tests developed as part of the BESSPIN project.
 - [BESSPIN-rocket-chip](https://github.com/GaloisInc/BESSPIN-rocket-chip): The fork of the [Chips Alliance](https://chipsalliance.org) [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip) used within the BESSPIN project.
+
+# Acknowledgement
+
+This material is based upon work supported by the Defense Advanced Research Project Agency (DARPA) under Contract No. HR0011-18-C-0013.  Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of DARPA.
+
+Distribution Statement "A" (Approved for Public Release, Distribution Unlimited)
+
