@@ -112,3 +112,6 @@
 [submodule "BESSPIN-FETT-Admin-Portal"]
 	path = BESSPIN-FETT-Admin-Portal
 	url = git@github.com:GaloisInc/BESSPIN-FETT-Admin-Portal.git
+[submodule "BESSPIN-Demonstrator"]
+	path = BESSPIN-Demonstrator
+	url = git@github.com:GaloisInc/BESSPIN-Demonstrator.git
