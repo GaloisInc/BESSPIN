@@ -90,16 +90,16 @@
 	url = git@github.com:GaloisInc/BESSPIN-riscv-timing-tests.git
 [submodule "BESSPIN-BMD-2019"]
 	path = BESSPIN-BMD-2019
-	url = git@github.com/GaloisInc/BESSPIN-BMD-2019.git
+	url = git@github.com:GaloisInc/BESSPIN-BMD-2019.git
 [submodule "BESSPIN-Voting-System-Demonstrator-2019"]
 	path = BESSPIN-Voting-System-Demonstrator-2019
-	url = git@github.com/GaloisInc/BESSPIN-Voting-System-Demonstrator-2019.git
+	url = git@github.com:GaloisInc/BESSPIN-Voting-System-Demonstrator-2019.git
 [submodule "BESSPIN-FreeRTOS-2019"]
 	path = BESSPIN-FreeRTOS-2019
-	url = git@github.com/GaloisInc/BESSPIN-FreeRTOS-2019.git
+	url = git@github.com:GaloisInc/BESSPIN-FreeRTOS-2019.git
 [submodule "BESSPIN-GFE-2019"]
 	path = BESSPIN-GFE-2019
-	url = git@github.com/GaloisInc/BESSPIN-GFE-2019.git
+	url = git@github.com:GaloisInc/BESSPIN-GFE-2019.git
 [submodule "BESSPIN-FETT-Portal"]
 	path = BESSPIN-FETT-Portal
 	url = git@github.com:GaloisInc/BESSPIN-FETT-Portal.git
